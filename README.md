@@ -1,5 +1,5 @@
 # Ejercicio_02
-Ejercicio 02 de la Tarea 1
+Ejercicio 02 de la Tarea 1\
 En este ejercicio encontraremos las siguientes opciones:
 1.	Escribe un programa que evalúe si un número ingresado por el usuario es positivo :heavy_plus_sign:, negativo :heavy_minus_sign: o cero :o2:.
 2.	Crea un programa que solicita al usuario ingresar una calificación y luego muestre un mensaje según la calificación ingresada (por ejemplo: "Aprobado :white_check_mark:" si la calificación es mayor o igual a 60, "Reprobado :x:" si es menor a 60).
